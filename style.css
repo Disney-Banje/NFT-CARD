@@ -177,6 +177,7 @@ h1 a {
 }
 
 .card-details p {
+    margin-top: 16px;
     font-weight: 300;
 }
 
